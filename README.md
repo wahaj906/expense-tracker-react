@@ -1,4 +1,4 @@
-Hi This is Wahaj Ali 
+Hi This is Wahaj Ali!
 # Expense/Money Tracker with React
 
 ## Task
